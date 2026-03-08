@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "22f3QAOwqzM=",
+  "success": true,
+  "projectFilePath": "X:\\Source\\ForMyProfile\\Delphi\\MultiSearchDemoWinUI\\MultiSearchDemoWinUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ablik\\.nuget\\packages\\microsoft.web.webview2\\1.0.2651.64\\microsoft.web.webview2.1.0.2651.64.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.26100.1742\\microsoft.windows.sdk.buildtools.10.0.26100.1742.nupkg.sha512",
+    "C:\\Users\\ablik\\.nuget\\packages\\microsoft.windowsappsdk\\1.6.241114003\\microsoft.windowsappsdk.1.6.241114003.nupkg.sha512",
+    "C:\\Users\\ablik\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\10.0.2\\microsoft.netcore.app.runtime.win-x86.10.0.2.nupkg.sha512",
+    "C:\\Users\\ablik\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512",
+    "C:\\Users\\ablik\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\10.0.2\\microsoft.aspnetcore.app.runtime.win-x86.10.0.2.nupkg.sha512",
+    "C:\\Users\\ablik\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\10.0.2\\microsoft.netcore.app.runtime.win-arm64.10.0.2.nupkg.sha512",
+    "C:\\Users\\ablik\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.2\\microsoft.aspnetcore.app.runtime.win-x64.10.0.2.nupkg.sha512",
+    "C:\\Users\\ablik\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\10.0.2\\microsoft.windowsdesktop.app.runtime.win-arm64.10.0.2.nupkg.sha512",
+    "C:\\Users\\ablik\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.2.nupkg.sha512",
+    "C:\\Users\\ablik\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\10.0.2\\microsoft.aspnetcore.app.runtime.win-arm64.10.0.2.nupkg.sha512",
+    "C:\\Users\\ablik\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.2\\microsoft.netcore.app.runtime.win-x64.10.0.2.nupkg.sha512",
+    "C:\\Users\\ablik\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\10.0.2\\microsoft.windowsdesktop.app.runtime.win-x86.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
